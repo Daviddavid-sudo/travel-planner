@@ -1,0 +1,25 @@
+
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets et variables d'environnement
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Outils et éditeurs
+.vscode/
+.idea/
+
+# Tests et couverture
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Système
+.DS_Store
+Thumbs.db
