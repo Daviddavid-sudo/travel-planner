@@ -23,3 +23,7 @@ htmlcov/
 # Système
 .DS_Store
 Thumbs.db
+
+*.csv
+*.json
+*.zip
